@@ -16,3 +16,9 @@ wp-content/plugins/hello.php
 /readme.html
 /license.txt
 
+.idea
+.htaccess_lscachebak_orig
+.htaccess_lscachebak_03
+.htaccess_lscachebak_02
+.htaccess_lscachebak_01
+wp-content/ai1wm-backups/
